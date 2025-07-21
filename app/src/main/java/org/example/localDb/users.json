@@ -1,0 +1,30 @@
+[
+  {
+    "user_id": "12345",
+    "name": "akash yadav",
+    "hashedpassword": "abcd1234",
+    "ticket_booked": [
+      {
+        "source": "mathura",
+        "destantion": "delhi",
+        "date_of_travel": "2025-07-20T11:45:00Z",
+        "train":
+          {
+            "train_no": "3r5r5r",
+            "train_id": "6777huu",
+             "seats":[
+               [0,0,0,0,0,0],
+               [0,0,0,0,0,0],
+               [0,0,0,0,0,0],
+               [0,0,0,0,0,0]
+             ],
+            "stations": {
+              "mathura": "13:50:00",
+              "delji": "13:50:00",
+              "jaipur": "13:50:00"
+            }
+          }
+      }
+    ]
+  }
+]
